@@ -21,5 +21,9 @@ The analysis of the election show that:
 -The winner of the election
 
 ##Challenge Overview
+Confirm voter turnout for each county that voted in the congressional district for Colorado Board of Elections.
 
 ##Challenge Summary
+1. Determine number of votes cast for each county
+2. Determine vote percentage per county
+3. Determine which county had the largets voter turnout
